@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "choyxona", "choyxona\choyxona.csproj", "{02F67308-7A19-4EE6-AEE3-755B3A2538FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{ADD8DD2A-75CD-4322-9182-9EFF88C75801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F67308-7A19-4EE6-AEE3-755B3A2538FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F67308-7A19-4EE6-AEE3-755B3A2538FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F67308-7A19-4EE6-AEE3-755B3A2538FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F67308-7A19-4EE6-AEE3-755B3A2538FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD8DD2A-75CD-4322-9182-9EFF88C75801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD8DD2A-75CD-4322-9182-9EFF88C75801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD8DD2A-75CD-4322-9182-9EFF88C75801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD8DD2A-75CD-4322-9182-9EFF88C75801}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB657DA-7074-45A4-8CDA-C8747C172D95}
+	EndGlobalSection
+EndGlobal
